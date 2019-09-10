@@ -1,2 +1,3 @@
 MD003: { style: atx }
 MD007: { indent: 4 }
+MD013: { line_length: 100 }
