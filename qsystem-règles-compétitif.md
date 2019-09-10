@@ -1,8 +1,18 @@
 Q-System / Sherlock : Règles alternatives - Mode compétitif
 ===========================================================
 
-Concept
--------
+<!-- TOC -->
+
+- [Concept](#concept)
+- [Matériel](#matériel)
+- [Règles](#règles)
+    - [Mise en place](#mise-en-place)
+    - [Phase Investigation](#phase-investigation)
+    - [Phase Conclusion](#phase-conclusion)
+
+<!-- /TOC -->
+
+## Concept
 
 Q-System est une série de jeux qui vous plonge au cœur d’enquêtes policières.
 Dans la série Sherlock, vous vous mesurez au célèbre détective.
@@ -20,8 +30,7 @@ En suivant quelques règles simples, vous devrez analyser les indices,
 partager vos théories avec vos co-équipiers
 et utiliser votre esprit de déduction pour résoudre l’enquête.
 
-Matériel
---------
+## Matériel
 
 Matériel commun :
 
@@ -47,8 +56,7 @@ Pour chaque équipe :
 > ⚠️ Au début du jeu, les équipes ne disposent que de quoi prendre note.
 > Les différents documents devront être distribués à des moments précis du jeu.
 
-Règles
-------
+## Règles
 
 Afin de résoudre cette enquête, vous allez récolter des indices représentés par des cartes.
 Ces cartes représentent le résultat des interrogatoires, fouilles, et autres investigations.
