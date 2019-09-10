@@ -1,5 +1,8 @@
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable MD003 -->
 Q-System / Sherlock : Règles alternatives - Mode compétitif
 ===========================================================
+<!-- markdownlint-restore -->
 
 <!-- TOC -->
 
