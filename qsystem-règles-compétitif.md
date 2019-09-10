@@ -15,6 +15,8 @@ Q-System / Sherlock : Règles alternatives - Mode compétitif
 
 <!-- /TOC -->
 
+Référence: <https://qsystem.games/html/rules_FR.html>
+
 ## Concept
 
 Q-System est une série de jeux qui vous plonge au cœur d’enquêtes policières.
