@@ -52,14 +52,18 @@ Matériel commun :
 
 Pour chaque équipe :
 
-- de quoi prendre note (papier + crayon)
+- ~~de quoi prendre note (papier + crayon)~~
 - 1 copie des règles (optionnel)
 - 1 copie du texte d'introduction
 - 1 copie des questions
 - 1 copie de la solution (optionnel)
 
-> ⚠️ Au début du jeu, les équipes ne disposent que de quoi prendre note.
+> ⚠️ Au début du jeu, les équipes ne disposent ~~que de quoi prendre note~~
+> pas de ces documents.
 > Les différents documents devront être distribués à des moments précis du jeu.
+>
+> Pendant le jeu, il n'est pas autorisé de prendre note :
+> papier, crayon, smartphones ... doivent être écartés
 
 ## Règles
 
