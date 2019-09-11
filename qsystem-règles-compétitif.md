@@ -26,7 +26,7 @@ Serez-vous à la hauteur de son talent ?
 Bien que le jeu original propose un mode coopératif (ou solo),
 il est possible de jouer en mode compétitif, moyennant quelques adaptations.
 
-Le jeu est accessible à partir de 8 ans, pour 2 à 8 joueurs/équipes,
+Le jeu est accessible à partir de ?8? ans, pour 2 à 6 équipes
 et pour une durée approchant les 60 minutes.
 
 Après une brève introduction et un premier indice,
@@ -137,7 +137,7 @@ Les tours s’enchaînent jusqu’à la fin de la phase Investigation.
 > - à 3 équipes : 5
 > - à 4 équipes : 4
 > - à 5 équipes : 3
-> - à 6, 7 ou 8 équipes : 2
+> - à 6 équipes : 2
 >
 > Une fois ce nombre de défausses atteint, cette équipe ne pourra plus que révéler ses cartes.
 
