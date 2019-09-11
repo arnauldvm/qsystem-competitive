@@ -138,15 +138,19 @@ Les tours s’enchaînent jusqu’à la fin de la phase Investigation.
 > Choisissez judicieusement les cartes que vous défaussez, certaines informations sont capitales,
 > et vous serez tentés de les dissimuler, mais cela vous fera perdre des points.
 >
-> Dans tous les cas, une équipe ne peut défausser qu'un nombre maximum de cartes :
+> Dans tous les cas, une équipe est obligée de défausser **au moins une** carte,
+> mais sans dépasser un **maximum de** :
 >
-> - à 2 équipes : 7
-> - à 3 équipes : 5
-> - à 4 équipes : 4
-> - à 5 équipes : 3
-> - à 6 équipes : 2
+> - à 2 équipes : **7 cartes**
+> - à 3 équipes : **5 cartes**
+> - à 4 équipes : **4 cartes**
+> - à 5 équipes : **3 cartes**
+> - à 6 équipes : **2 cartes**
 >
-> Une fois ce nombre de défausses atteint, cette équipe ne pourra plus que révéler ses cartes.
+> Une fois ce nombre de défausses maximum atteint,
+> cette équipe ne pourra plus que révéler ses cartes.
+> Si, au contraire, une équipe n'a défaussé aucune carte avant le dernier tour,
+> elle sera obligée de défausser sa dernière carte.
 
 À tout moment, n'importe quel joueur peut consulter les cartes affichées au tableau,
 en discuter avec ses coéquipiers et partager ses théories.
