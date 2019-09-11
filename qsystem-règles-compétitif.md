@@ -169,7 +169,7 @@ On peut également utiliser les informations des indices défaussés dont on se 
 _On peut désormais prendre des notes._
 
 Quand toute les équipes ont disposé d'assez de temps pour s'accorder sur une théorie,
-_l'arbitre récupère toutes les cartes_, puis
+**l'arbitre récupère toutes les cartes**, puis
 on passe au questionnaire.
 
 > ✋ Chaque équipe reçoit un exemplaire du questionnaire
