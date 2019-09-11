@@ -30,7 +30,7 @@ Le jeu est accessible à partir de 8 ans, pour 2 à 8 joueurs/équipes,
 et pour une durée approchant les 60 minutes.
 
 Après une brève introduction et un premier indice,
-chaque joueur/équipe jouera le rôle d’un détective enquêtant sur une affaire criminelle.
+chaque équipe jouera le rôle d’un détective enquêtant sur une affaire criminelle.
 En suivant quelques règles simples, vous devrez analyser les indices,
 partager vos théories avec vos co-équipiers
 et utiliser votre esprit de déduction pour résoudre l’enquête.
