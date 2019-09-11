@@ -39,8 +39,11 @@ et utiliser votre esprit de déduction pour résoudre l’enquête.
 
 Matériel commun :
 
-- 1 deck de cartes "Q-System / Sherlock"
-  (par exemple le jeu d'introduction "Porté disparu")
+- 1 deck de 31 cartes "Q-System / Sherlock"
+  (par exemple le jeu d'introduction "Porté disparu"), soit :
+    - une carte de départ (n° 1)
+    - 30 cartes indices
+      (à 4 équipes, l'arbitre retire 2 cartes "inutiles" et on joue avec 28 cartes)
 - une série d'agrandissements A4 des cartes (1 exemplaire de chaque),
   pour faciliter la visibilité
   > Alternativement on peut aussi utiliser autant de copies que d'équipes,
