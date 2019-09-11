@@ -69,7 +69,8 @@ Pour chaque équipe :
 > Les différents documents devront être distribués à des moments précis du jeu.
 >
 > Pendant le jeu, il n'est pas autorisé de prendre note :
-> papier, crayon, smartphones ... doivent être écartés
+> papier, crayon, smartphones ... doivent être écartés.
+> Il faudra faire fonctionner un petit sa mémoire !
 
 ## Règles
 
