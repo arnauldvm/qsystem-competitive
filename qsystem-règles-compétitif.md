@@ -194,6 +194,8 @@ L'arbitre fait le décompte des points, selon cette répartition :
 
 L'arbitre proclame le résultat.
 
+<p style="page-break-after: always;">&nbsp;</p>
+
 ## Resumé
 
 (À distribuer à chaque équipe.)
