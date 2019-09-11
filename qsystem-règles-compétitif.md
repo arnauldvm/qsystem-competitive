@@ -12,6 +12,7 @@ Q-System / Sherlock : Règles alternatives - Mode compétitif
     - [Mise en place](#mise-en-place)
     - [Phase Investigation](#phase-investigation)
     - [Phase Conclusion](#phase-conclusion)
+- [Resumé](#resumé)
 
 <!-- /TOC -->
 
@@ -59,7 +60,7 @@ Matériel commun :
 Pour chaque équipe :
 
 - ~~de quoi prendre note (papier + crayon)~~
-- 1 copie des règles (optionnel)
+- 1 résumé des règles
 - 1 copie du texte d'introduction
 - 1 copie des questions
 - 1 copie de la solution (optionnel)
@@ -187,3 +188,32 @@ L'arbitre fait le décompte des points, selon cette répartition :
 - chaque carte défaussée, alors qu'elle était utile à l'enquête fait perdre 2 points.
 
 L'arbitre proclame le résultat.
+
+## Resumé
+
+(À distribuer à chaque équipe.)
+
+- Il y a 30 cartes indices en tout (28 à 4 équipes).
+- Chaque équipe reçoit 2 cartes au début. On révèle (oralement) tous les mots clés.
+- Parmi les cartes indices, entre 30% et 50% sont "inutiles" à l'enquête.
+- Tour de jeu d'une équipe:
+    1. Choisir une des 2 cartes disponibles, puis, au choix:
+        - Révéler l'indice
+        - ou Défausser l'indice
+    2. Repiocher une carte et révéler les mots clés
+
+- Chaque équipe est obligée de défausser un certain nombre de cartes indices
+  (voir min/max dans le tableau ci-dessous).
+
+  | # équipes | # cartes / équipe | min défausses | max défausses |
+  |:---------:|:-----------------:|:-------------:|:-------------:|
+  |     2     |        15         |       1       |       7       |
+  |     3     |        10         |       1       |       5       |
+  |     4     |         7         |       1       |       4       |
+  |     5     |         6         |       1       |       3       |
+  |     6     |         5         |       1       |       2       |
+
+- Décompte des points :
+    - chaque bonne réponse rapporte 2 points (10 questions) ;
+    - chaque carte défaussée non pertinente rapporte 1 point ;
+    - chaque carte défaussée, alors qu'elle était utile à l'enquête fait perdre 2 points.
