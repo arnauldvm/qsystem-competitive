@@ -59,17 +59,17 @@ Matériel commun :
 
 Pour chaque équipe :
 
-- ~~de quoi prendre note (papier + crayon)~~
+- de quoi prendre note (papier + crayon)
 - 1 résumé des règles
 - 1 copie du texte d'introduction
 - 1 copie des questions
 - 1 copie de la solution (optionnel)
 
-> ⚠️ Au début du jeu, les équipes ne disposent ~~que de quoi prendre note~~
-> pas de ces documents.
+> ⚠️ Au début du jeu, les équipes ne disposent ni de quoi prendre note,
+> ni de ces documents.
 > Les différents documents devront être distribués à des moments précis du jeu.
 >
-> Pendant le jeu, il n'est pas autorisé de prendre note :
+> Pendant la première phase du jeu, **il n'est pas autorisé de prendre note** :
 > papier, crayon, smartphones ... doivent être écartés.
 > Il faudra faire fonctionner un petit sa mémoire !
 
@@ -166,8 +166,10 @@ Passez à la phase Conclusion.
 Chaque équipe doit élaborer (en interne) une théorie à l’aide des indices révélés sur le tableau.
 On peut également utiliser les informations des indices défaussés dont on se souvient
 (pour peu qu'ils soient pertinents !).
+_On peut désormais prendre des notes._
 
 Quand toute les équipes ont disposé d'assez de temps pour s'accorder sur une théorie,
+_l'arbitre récupère toutes les cartes_, puis
 on passe au questionnaire.
 
 > ✋ Chaque équipe reçoit un exemplaire du questionnaire
