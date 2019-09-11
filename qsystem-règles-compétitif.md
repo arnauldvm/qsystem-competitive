@@ -67,7 +67,8 @@ Pour chaque équipe :
 
 > ⚠️ Au début du jeu, les équipes ne disposent ni de quoi prendre note,
 > ni de ces documents.
-> Les différents documents devront être distribués à des moments précis du jeu.
+> Les différents documents devront être distribués à des moments précis du jeu
+> (voir symboles ✋).
 >
 > Pendant la première phase du jeu, **il n'est pas autorisé de prendre note** :
 > papier, crayon, smartphones ... doivent être écartés.
@@ -166,13 +167,15 @@ Passez à la phase Conclusion.
 Chaque équipe doit élaborer (en interne) une théorie à l’aide des indices révélés sur le tableau.
 On peut également utiliser les informations des indices défaussés dont on se souvient
 (pour peu qu'ils soient pertinents !).
-_On peut désormais prendre des notes._
+
+> ✋ _On peut désormais prendre des notes._
 
 Quand toute les équipes ont disposé d'assez de temps pour s'accorder sur une théorie,
-**l'arbitre récupère toutes les cartes**, puis
 on passe au questionnaire.
 
-> ✋ Chaque équipe reçoit un exemplaire du questionnaire
+> ✋ **L'arbitre récupère toutes les cartes**
+
+> ✋ Puis chaque équipe reçoit un exemplaire du questionnaire
 
 Chaque équipe répond secrètement aux 10 questions en cochant les propositions sur le questionnaire,
 puis le remet à l'arbitre (ne pas oubliez de mettre son nom sur la feuille).
