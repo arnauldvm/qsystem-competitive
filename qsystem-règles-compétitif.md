@@ -44,14 +44,17 @@ Matériel commun :
     - une carte de départ (n° 1)
     - 30 cartes indices
       (à 4 équipes, l'arbitre retire 2 cartes "inutiles" et on joue avec 28 cartes)
-- une série d'agrandissements A4 des cartes (1 exemplaire de chaque),
-  pour faciliter la visibilité
-  > Alternativement on peut aussi utiliser autant de copies que d'équipes,
-  > en distribuant les copies des cartes au lieu de les afficher sur un tableau.
-  > D'un côté, cela demande plus de manipulation).
+- une copie du deck par équipe
+  (si possible légèrement agrandi, par exple A7)
+
+  > Avantage: ça simplifie les débats au sein de chaque équipe  
+  > Inconvénient: il faut distribuer une copie de chaque carte à chaque équipe à chaque tour de jeu
   > D'un autre, cela évite de devoir disposer d'un tableau (et d'un moyen d'y fixer des feuilles),
   > et cela simplifie la réflexion pour les équipes.
-- de quoi afficher ces agrandissements (tableau + magnets ou papier collant)
+- **ou** une seule copie, fortement agrandie (par exple A4)  
+  \+ de quoi afficher ces agrandissements (_grand_ tableau + magnets ou papier collant)
+
+  > Inconvénient : il faut prévoir du matériel supplémentaire et encombrant
 
 Pour chaque équipe :
 
