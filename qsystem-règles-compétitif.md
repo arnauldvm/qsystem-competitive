@@ -112,7 +112,7 @@ ces cartes constituent sa "main".
 Formez une pioche avec les cartes restantes, posez-les, face cachée, près de l'arbitre.
 
 Chaque équipe prend connaissance de ses 3 (ou 2) cartes
-et communique oralement les **mots-clés** figurant sur celles-ci.
+et communique oralement aux autres équipes les **mots-clés** figurant sur celles-ci.
 
 On choisit une première équipe au hasard.
 
@@ -179,7 +179,7 @@ on passe au questionnaire.
 > ✋ Puis chaque équipe reçoit un exemplaire du questionnaire
 
 Chaque équipe répond secrètement aux 10 questions en cochant les propositions sur le questionnaire,
-puis le remet à l'arbitre (ne pas oubliez de mettre son nom sur la feuille).
+puis le remet à l'arbitre (ne pas oubliez de mettre le nom de l'équipe sur la feuille).
 
 Dès que tout le monde a terminé, on dépouille les résultats.
 Il est probablement plus amusant de découvrir la solution au fur et à mesure,
