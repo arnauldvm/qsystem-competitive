@@ -121,7 +121,11 @@ Une partie se déroule en deux phases : l’Investigation puis la Conclusion.
 ### Phase Investigation
 
 Elle se joue dans le sens horaire, équipe après équipe.
-À son tour, une équipe doit effectuer une des deux actions suivantes :
+
+À son tour, une équipe va essayer de déterminer quels indices parmi ceux qu'elle
+a récoltés sont pertinents pour l'enquête, et doivent être partagés avec les autres équipes.
+
+Elle doit effectuer une des deux actions suivantes :
 
 - **Révéler une carte** : choisir une carte de sa main, lire tout le texte à voix haute,
   puis l'arbitre récupère la carte, prend note du numéro, la défausse,
