@@ -135,10 +135,10 @@ Le joueur lit les **mots-clés** à haute voix, et ramène la carte dans la "mai
 
 Les tours s’enchaînent jusqu’à la fin de la phase Investigation.
 
-> Chaque carte défaussée, mais **utile pour l’enquête, fera perdre 2 points** lors du décompte.
+> Chaque carte révélée, et **utile pour l’enquête, fera gagner 1 point** lors du décompte.
 > Chaque carte défaussée, et **non pertinente pour l’enquête, fera gagner 1 point** lors du décompte.
 > Choisissez judicieusement les cartes que vous défaussez, certaines informations sont capitales,
-> et vous serez tentés de les dissimuler, mais cela vous fera perdre des points.
+> et vous serez tentés de les dissimuler, mais cela vous fera gagner moins de points.
 >
 > Dans tous les cas, une équipe est obligée de défausser **au moins une** carte,
 > mais sans dépasser un **maximum de** :
@@ -188,9 +188,9 @@ en faisant un tour de table avant de révéler chaque réponse.
 
 L'arbitre fait le décompte des points, selon cette répartition :
 
-- chaque bonne réponse rapporte 2 points ;
+- chaque bonne réponse rapporte 1 point ;
 - chaque carte défaussée non pertinente rapporte 1 point ;
-- chaque carte défaussée, alors qu'elle était utile à l'enquête fait perdre 2 points.
+- chaque carte révélée, alors qu'elle était utile à l'enquête fait gagner 1 point.
 
 L'arbitre proclame le résultat.
 
@@ -221,6 +221,6 @@ L'arbitre proclame le résultat.
   |     6     |         5         |       1       |       2       |
 
 - Décompte des points :
-    - chaque bonne réponse rapporte 2 points (10 questions) ;
+    - chaque bonne réponse rapporte 1 point (10 questions) ;
     - chaque carte défaussée non pertinente rapporte 1 point ;
-    - chaque carte défaussée, alors qu'elle était utile à l'enquête fait perdre 2 points.
+    - chaque carte révélée, alors qu'elle était utile à l'enquête fait gagner 1 point.
