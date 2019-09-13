@@ -92,10 +92,10 @@ ce sont les mots <ins>soulignés</ins> ou les mots se trouvant dans ce cadre :
 
 ### Mise en place
 
-Un grand tableau est disposé de façon à être bien visible de toutes les équipes.
-(À défaut, on utilisera une grande table centrale.)
+> Optionnel: Un grand tableau est disposé de façon à être bien visible de toutes les équipes.
+> (À défaut, on utilisera une grande table centrale.)
 
-L'arbitre se place à côté du tableau et explique les règles.
+L'arbitre se place bien en vue (prés du tableau si on en utilise un) et explique les règles.
 
 > ✋ Chaque équipe reçoit un exemplaire des règles (optionnel).
 
@@ -103,7 +103,7 @@ L'arbitre lit l'introduction (ou fait écouter l'enregistrement joué par des ac
 
 > ✋ Chaque équipe reçoit un exemplaire de l'introduction.
 
-L'arbitre affiche l'agrandissement de la carte n°1 au tableau, puis mélange les autres cartes.
+L'arbitre distribue les copies de la carte n°1 (ou l'affiche au tableau), puis mélange les autres cartes.
 Il est important qu'aucun joueur ne voie ces cartes.
 
 L'arbitre distribue 3 cartes à chaque équipe (2 cartes à 6 équipes ou plus),
@@ -124,7 +124,8 @@ Elle se joue dans le sens horaire, équipe après équipe.
 À son tour, une équipe doit effectuer une des deux actions suivantes :
 
 - **Révéler une carte** : choisir une carte de sa main, lire tout le texte à voix haute,
-  puis l'arbitre récupère la carte et la défausse, et affiche l'agrandissement au tableau
+  puis l'arbitre récupère la carte, prend note du numéro, la défausse,
+  et distribue les copies à toutes les équipes (ou affiche l'agrandissement au tableau)
 - **Défausser une carte** : choisir une carte de sa main, et la remettre, face cachée, à l'arbitre.
   Celui-ci la défausse et prend note du numéro de la carte (pour le décompte final des points).
   Les autres équipes n'auront donc pas l'occasion de prendre connaissance du contenu de la carte.
@@ -154,7 +155,7 @@ Les tours s’enchaînent jusqu’à la fin de la phase Investigation.
 > Si, au contraire, une équipe n'a défaussé aucune carte avant le dernier tour,
 > elle sera obligée de défausser sa dernière carte.
 
-À tout moment, n'importe quel joueur peut consulter les cartes affichées au tableau,
+À tout moment, n'importe quel joueur peut _(consulter les cartes affichées au tableau,)_
 en discuter avec ses coéquipiers et partager ses théories.
 
 Lorsque la pioche est épuisée, on continue à jouer, mais en passant l'étape de la pioche.
