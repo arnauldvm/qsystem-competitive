@@ -202,10 +202,11 @@ L'arbitre proclame le résultat.
 (À distribuer à chaque équipe.)
 
 - Il y a 30 cartes indices en tout (28 à 4 équipes).
-- Chaque équipe reçoit 2 cartes au début. On révèle (oralement) tous les mots clés.
+- Chaque équipe reçoit 3 cartes au début (2 à 6 équipes).
+  On révèle (oralement) tous les mots clés.
 - Parmi les cartes indices, entre 30% et 50% sont "inutiles" à l'enquête.
 - Tour de jeu d'une équipe:
-    1. Choisir une des 2 cartes disponibles, puis, au choix:
+    1. Choisir une des cartes disponibles, puis, au choix:
         - Révéler l'indice
         - ou Défausser l'indice
     2. Repiocher une carte et révéler les mots clés
